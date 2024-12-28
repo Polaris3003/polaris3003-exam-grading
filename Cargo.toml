@@ -7,11 +7,10 @@ exclude = [
   "dev",
   "rustlings",
   "learning-cxx",
-  "exams",
   "TinyInfiniTensor",
   "learning-lm-rs"
 ]
-members = ["exams/rustlings"]
+members = ["rustlings"]
 
 [workspace.package]
 version = "6.0.1"
